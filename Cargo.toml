@@ -1,0 +1,8 @@
+[package]
+name = "dependabot-test"
+version = "0.0.1"
+authors = ["Vladimir Smelov"]
+autobins = false
+
+[dependencies]
+lighthouse = "0.2.0"
