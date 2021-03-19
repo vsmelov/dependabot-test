@@ -6,4 +6,4 @@ autobins = false
 
 [dependencies]
 lighthouse = "0.2.0"
-hello_world_vsmelov = "^0.2.1"
+hello_world_vsmelov = "^0.3.0"
